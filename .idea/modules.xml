@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Crystal Ball/Crystal Ball.iml" filepath="$PROJECT_DIR$/Crystal Ball/Crystal Ball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrystalBall.iml" filepath="$PROJECT_DIR$/CrystalBall.iml" />
+    </modules>
+  </component>
+</project>
+
